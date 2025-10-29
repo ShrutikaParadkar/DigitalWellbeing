@@ -80,7 +80,14 @@ This project demonstrates:
 
 ## 💻 How to Run the Project
 
-1️⃣ Clone the Repository  
 ```bash
+# Step 1 — Clone the Repository
 git clone https://github.com/YourUsername/Digital_Wellbeing_Analyzer.git
 cd Digital_Wellbeing_Analyzer
+
+# Step 2 — Install Required Libraries
+pip install streamlit pandas numpy scikit-learn joblib matplotlib seaborn
+
+# Step 3 — Run the Streamlit App
+streamlit run Digital_Wellbeing_Analyzer.py
+
