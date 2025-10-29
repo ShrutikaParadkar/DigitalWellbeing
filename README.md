@@ -8,8 +8,8 @@
 **Shrutika Paradkar**  
 📍 Data Scientist | Python | Machine Learning | Power BI | SQL  
 
-🔗 [LinkedIn Profile](#)  
-💻 [GitHub Profile](#)
+##### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shrutika-paradkar-778a02219/)  
+##### 💻 [GitHub Profile](https://github.com/ShrutikaParadkar)
 
 ---
 
